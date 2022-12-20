@@ -2,10 +2,13 @@ h1 {
   font-weight: normal
 }
 
-.row {
-  width: 270px;
+.propImg {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
 }
 
-.propImg {
-  width: 260px;
+.card {
+  width: 400px;
+  margin: 0 auto;
 }
